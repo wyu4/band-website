@@ -24,5 +24,5 @@ Some extra stuff if I have time.
 Some links to certain resources or tools that I used.
 
 `W3School`: https://www.w3schools.com/ <br>
-`IStock`: https://www.istockphoto.com/ <br>
+`iStock`: https://www.istockphoto.com/ <br>
 `ChatGPT`: https://chatgpt.com/ <br>
