@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    font-size: 5em;
+}
+
+/* Title */
+#title-banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    font-family: 'Trebuchet MS';
+    background-color: rgb(0, 0, 0, 0.5);
+    background-image: url('./images/kid-playing-trumpet.jpg');
+    background-blend-mode: multiply;
+    background-size:auto;
+    background-repeat: repeat-x;
+}
+
+#banner-content{
+    display: flex;
+    align-items: center;
+    background-color: rgb(0, 0, 0, 0.75);
+}
+
+#title-quote{
+    height: 75px;
+    width: 100%;
+    text-align: center;
+    font-size: 2.5em;
+}
